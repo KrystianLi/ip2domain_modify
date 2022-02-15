@@ -1,7 +1,7 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3.9
 # -*- coding: utf-8 -*-
-# @Author : Sma11New
-# @Github : https://github.com/Sma11New
+# @Author : KrystianLi
+# @Github : https://github.com/KrystianLi/ip2domain_modify.git
 
 import re,os,time
 import tldextract
